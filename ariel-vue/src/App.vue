@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <HelloWorld/>
     <h1>Hola mundo del desarrollador de fullstack</h1>
   </div>
 </template>
